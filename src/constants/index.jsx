@@ -128,7 +128,7 @@ export const features = [
     {
       id: "1",
       title: "Overdrive",
-      priceMonthly: 79,
+      priceMonthly: 89,
       priceYearly: 90,
       caption: "Most popular plan",
       features: [
